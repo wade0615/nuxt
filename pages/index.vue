@@ -5,6 +5,15 @@
       <h1 class="title">
         nuxt
       </h1>
+      <nuxt-link to="/origin">
+        origin
+      </nuxt-link>
+      <nuxt-link to="/space">
+        space
+      </nuxt-link>
+      <nuxt-link to="/dishes">
+        dishes
+      </nuxt-link>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -31,7 +40,7 @@
 export default {}
 </script>
 
-<style>
+<style scoped>
 .container {
   margin: 0 auto;
   min-height: 100vh;

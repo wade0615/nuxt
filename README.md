@@ -32,6 +32,14 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ### pages
 產品網站 的每一個分頁，例如 home.vue, about.vue, products.vue 等等
+0.0 index.vue
+1.0 origin.vue
+2.0 space.vue
+3.0 dishes.vue
+4.0 products.vue
+5.0 news.vue
+6.0 blog.vue
+7.0 ???.vue
 
 ### plugins
 額外載入的外掛組建與套件
